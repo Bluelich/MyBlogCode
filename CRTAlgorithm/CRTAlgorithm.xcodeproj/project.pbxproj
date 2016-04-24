@@ -110,7 +110,6 @@
 				TargetAttributes = {
 					B4EAF59E1CCCD32500E90304 = {
 						CreatedOnToolsVersion = 7.3;
-						DevelopmentTeam = K85X9AAEPA;
 					};
 				};
 			};
@@ -266,6 +265,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = CRTAlgorithm/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Bluelich.CRTAlgorithm;
@@ -277,6 +277,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = CRTAlgorithm/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Bluelich.CRTAlgorithm;
@@ -303,6 +304,7 @@
 				B4EAF5B81CCCD32500E90304 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
