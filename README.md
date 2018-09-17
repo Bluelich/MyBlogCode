@@ -6,9 +6,5 @@
 中国剩余定理：http://www.jianshu.com/p/30662e6d19f0
 
 
-
-
-
-
-我的博客：https://www.bluelich.com
+我的博客：https://bluelich.com
 
